@@ -2,7 +2,7 @@ const users = [
   {
     userPic: "/images/Avatar0.png",
     name: "Marisela",
-    email: "mariselaalejandragomez@gmail.com",
+    email: "magomez@gmail.com",
     password: "secret",
     balance: 100000,
     transactionHistory: [],

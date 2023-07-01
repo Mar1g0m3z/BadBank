@@ -87,6 +87,7 @@ code {
   padding: 20px;
   border: none;
   overflow: auto;
+  color: #212529;
 }
 
 .custom-input-box {
