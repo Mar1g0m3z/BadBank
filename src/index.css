@@ -1,11 +1,14 @@
+
 body {
   background-image: url("../public/images/background2.jpg");
+
     background-position: center;
       background-repeat: no-repeat;
       background-size: auto;
+
       height: 100%;
 
-  color: #ffffff;
+
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -13,6 +16,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-repeat: no-repeat;
+
 }
 
 code {
@@ -58,7 +62,7 @@ code {
 }
 
 .nav-item:hover {
-  background-color: #ffffff6c;
+  background-color: #3e39396c;
   border-radius: 3px;
 }
 
@@ -69,7 +73,7 @@ code {
 
 .popup-box {
   position: fixed;
-  background: #00000050;
+  background: #67676750;
   width: 100%;
   height: 100vh;
   top: 0;
